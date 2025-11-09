@@ -174,7 +174,7 @@ def display_kpis(kpis: Dict[str, Any]):
 
 def create_sidebar_filters(df: pd.DataFrame, unique_values: Dict):
     """Create sidebar filters for the dashboard."""
-    st.sidebar.header("` Data Filters")
+    st.sidebar.header(" Data Filters")
     
     # Year range filter
     if 'year' in df.columns:

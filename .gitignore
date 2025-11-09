@@ -27,7 +27,6 @@ build/
 
 # CSV / Parquet / Excel / JSON datasets
 *.csv
-*.parquet
 *.xlsx
 *.json
 

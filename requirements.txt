@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.26.0
+`
+pyarrow>=12.0.0
+fastparquet>=0.8.0
+
+# Visualization Libraries
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Dashboard Framework
+streamlit>=1.24.0
+
+# Additional Utility Libraries
+python-dateutil>=2.8.0
+openpyxl>=3.1.0
+
+# Development and Testing (Optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Data Processing Performance (Optional)
+numba>=0.57.0

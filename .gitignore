@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm / JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# CSV / Parquet / Excel / JSON datasets
+*.csv
+*.parquet
+*.xlsx
+*.json
+
+# Streamlit cache / temp
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
